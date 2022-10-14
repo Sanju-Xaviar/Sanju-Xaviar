@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanju-Xaviar
-- 👀 I’m interested in deep learning, IoT
+- 👀 I’m interested in deep learning, multimodal sensor fusion and IoT
 - 🌱 I’m currently learning to build robust models using deep learning
 - 📫 How to reach me: sanjuxaviar@gmail.com
 
